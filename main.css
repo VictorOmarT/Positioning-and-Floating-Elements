@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    color:#333;
+}
+
+
+.title{
+    width:100%;
+    margin: 50px auto;
+    text-align:center;
+    
+}
+.img-title{
+    width:80%;
+}
+.text{
+    text-align: center;
+    margin: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    
+}
