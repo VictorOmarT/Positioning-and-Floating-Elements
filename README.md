@@ -6,11 +6,5 @@ The project should contain a Header, a Footer, a Highlights section and a Latest
 ## Built With
 - HTML
 - CSS
-
-### Usage
-Drag the file to a new browser window and enjoy :)
-## Authors
-:silueta_de_busto: **Tiago Rahal Aires**
--
 ## :nota: License
 This project is [MIT](lic.url) licensed. 
