@@ -6,7 +6,7 @@
 - HTML
 - CSS
 ## Author
-:silueta_de_busto: **Victor Omar Toraño Meza**
+**Victor Omar Toraño Meza**
 - GitHub: [@VictorOmarT](https://github.com/VictorOmarT)
 - Twitter: [@VictorOmarTM](https://twitter.com/VictorOmarTM)
 - LinkedIn: [Victor Omar Toraño](https://www.linkedin.com/in/victoromartm/)
