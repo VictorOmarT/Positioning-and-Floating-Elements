@@ -18,7 +18,6 @@
     line-height: 1.125rem;
 }
 .content{
-    /* display:flex; */
     width: 40%;
     margin: 50px auto;
     text-align: left;
@@ -42,7 +41,9 @@
 }
 .editors-picks{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    font-size: 1rem;
+    line-height: 1.125rem;
 }
 .nav-list{
     box-shadow: 0px 0px 10px;
@@ -57,4 +58,7 @@
 }
 .img-tel0{
     width: 100%;
+}
+.f1{
+    width: 200px;
 }
