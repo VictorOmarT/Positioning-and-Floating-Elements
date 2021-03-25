@@ -1,15 +1,11 @@
 *{
     box-sizing: border-box;
-    
 }
-
 .header{
     display:flex;
-    
     margin: 0;
     padding: 0;
     border: 0;
-    
 }
 .title{
     justify-content:center;
