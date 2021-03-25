@@ -1,4 +1,6 @@
-* {box-sizing: border-box;}
+* {
+    box-sizing: border-box;
+}
 .header {
     display: flex;
     margin: 0;
@@ -22,7 +24,7 @@
     margin: 50px auto;
     text-align: left;
     font-size: 1.25rem;
-    font-family: nyt-imperial,georgia,'times new roman',times,serif;
+    font-family: nyt-imperial, georgia,'times new roman', times, serif;
 }
 .theory {
     font-size: 0.875rem;
