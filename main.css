@@ -1,18 +1,20 @@
 * {
-      box-sizing: border-box;
+    box-sizing: border-box;
 }
 .header {
+
     display: flex;
     margin: 0;
     padding: 0;
     border: 0;
 }
+
 .title {
     justify-content: center;
-    text-align: center
+    text-align: center;
 }
 .img-title {
- width: 80%;   
+ width: 80%;
 }
 .credits{
     color: #888;
