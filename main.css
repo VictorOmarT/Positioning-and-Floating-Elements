@@ -1,15 +1,15 @@
 * {box-sizing: border-box;}
-.header{
-    display:flex;
+.header {
+    display: flex;
     margin: 0;
     padding: 0;
     border: 0;
 }
-.title{
-    justify-content:center;
-    text-align:center
+.title {
+    justify-content: center;
+    text-align: center
 }
-.img-title{
+.img-title {
  width: 80%;   
 }
 .credits{
@@ -17,48 +17,48 @@
     font-size: 0.875rem;
     line-height: 1.125rem;
 }
-.content{
+.content {
     width: 40%;
     margin: 50px auto;
     text-align: left;
     font-size: 1.25rem;
     font-family: nyt-imperial,georgia,'times new roman',times,serif;
 }
-.theory{
+.theory {
     font-size: 0.875rem;
     line-height: 1.125rem;
 }
-.img-theory{
+.img-theory {
     margin-left: -150px;
 }
-.tel{
+.tel {
     font-size: 0.875rem;
     line-height: 1.125rem;
 }
-.end{
+.end {
     font-size: 0.875rem;
     line-height: 1.125rem;
 }
-.editors-picks{
+.editors-picks {
     display: flex;
     justify-content: space-between;
     font-size: 1rem;
     line-height: 1.125rem;
 }
-.nav-list{
+.nav-list {
     box-shadow: 0px 0px 10px;
     margin: 0;
     padding: 1rem 0;
     display: flex;
     justify-content: space-between;
 }
-.nav-item{
+.nav-item {
     list-style: none;
     text-decoration: none;
 }
-.img-tel0{
+.img-tel0 {
     width: 100%;
 }
-.f1{
+.f1 {
     width: 200px;
 }
