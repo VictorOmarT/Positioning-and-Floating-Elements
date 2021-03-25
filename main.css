@@ -3,13 +3,17 @@
 }
 .header {
   display: flex;
+
   margin: 0;
+
   padding: 0;
+
   border: 0;
 }
 
 .title {
   justify-content: center;
+
   text-align: center;
 }
 
@@ -19,18 +23,25 @@
 
 .credits {
   color: #888;
+
   font-size: 0.875rem;
+
   line-height: 1.125rem;
 }
 .content {
   width: 40%;
+
   margin: 50px auto;
+
   text-align: left;
+
   font-size: 1.25rem;
+
   font-family: nyt-imperial, georgia, "times new roman", times, serif;
 }
 .theory {
   font-size: 0.875rem;
+
   line-height: 1.125rem;
 }
 .img-theory {
@@ -38,27 +49,37 @@
 }
 .tel {
   font-size: 0.875rem;
+
   line-height: 1.125rem;
 }
 .end {
   font-size: 0.875rem;
+
   line-height: 1.125rem;
 }
 .editors-picks {
   display: flex;
+
   justify-content: space-between;
+
   font-size: 1rem;
+
   line-height: 1.125rem;
 }
 .nav-list {
-  box-shadow: 0px 0px 10px;
+  box-shadow: 10px;
+
   margin: 0;
+
   padding: 1rem 0;
+
   display: flex;
+
   justify-content: space-between;
 }
 .nav-item {
   list-style: none;
+
   text-decoration: none;
 }
 .img-tel0 {
