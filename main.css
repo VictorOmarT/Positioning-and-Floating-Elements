@@ -19,14 +19,14 @@
 .img-title{
  width: 80%;   
 }
-figcaption{
+/* figcaption{
     color: #666;
     font-size: 1rem;
     line-height: 2rem;
     width: 50%;
     margin: auto;
     text-align: left;
-}
+} */
 
 .credits{
     color: #888;
@@ -49,16 +49,6 @@ figcaption{
 }
 .img-theory{
     margin-left: -150px;
-}
-.LyJ{
-    font-size: 0.875rem;
-    line-height: 1.125rem;
-    margin-left: -140px;
-}
-.video-tag{
-    font-size: 0.875rem;
-    line-height: 1.125rem;
-    margin-left: -5px;
 }
 
 .tel{
