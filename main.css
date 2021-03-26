@@ -37,10 +37,6 @@
   line-height: 1.125rem;
 }
 
-.img-theory {
-  margin-left: -150px;
-}
-
 .tel {
   font-size: 0.875rem;
   line-height: 1.125rem;
@@ -78,7 +74,6 @@
   padding: 7px;
   border-radius: 3px;
   cursor: pointer;
-  
 }
 
 .img-tel0 {
@@ -96,6 +91,17 @@
   cursor: pointer;
 }
 
-.item1{
+.img-theory-good {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: px;
+}
 
+.paragraf {
+  font-size: 0.6rem;
+  justify-content: ;
+}
+
+.eight {
+  width: 200px;
 }
