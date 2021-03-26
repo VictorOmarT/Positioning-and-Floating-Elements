@@ -94,12 +94,10 @@
 .img-theory-good {
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
-  grid-template-rows: px;
 }
 
 .paragraf {
   font-size: 0.6rem;
-  justify-content: ;
 }
 
 .eight {
