@@ -59,16 +59,26 @@
 }
 
 .nav-list {
-  box-shadow: 1px 1px 10px;
-  margin: 0;
-  padding: 1rem 0;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  list-style: none;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  border-bottom: 1px solid #e2e2e2;
+  background-color: white;
+  z-index: 1;
+  align-items: center;
 }
 
 .nav-item {
-  list-style: none;
   text-decoration: none;
+  font-family: "nyt-franklin", helvetica, arial, sans-serif;
+  background-color: #567b95;
+  padding: 7px;
+  border-radius: 3px;
+  cursor: pointer;
+  
 }
 
 .img-tel0 {
@@ -77,4 +87,15 @@
 
 .f1 {
   width: 200px;
+}
+
+.lef-itm {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  cursor: pointer;
+}
+
+.item1{
+
 }
