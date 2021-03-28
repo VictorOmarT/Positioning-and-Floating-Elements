@@ -104,3 +104,31 @@
 .eight {
   width: 200px;
 }
+.img-foot {
+  margin-left: 300px;
+}
+
+.footer-rows {
+  display: flex;
+  justify-content: center;
+}
+.footer-rowmake ul,
+h4, li, a{
+  list-style: none;
+  font-family: nyt-imperial, georgia, "times new roman", times, serif;
+  color:black;
+  text-decoration: none;
+}
+
+.footer-rowmake h4 {
+  text-transform: uppercase;
+}
+.footer-low ul li{
+  display: inline;
+  color: #888;
+  font-size: 0.900rem;
+  line-height: 1.125rem;
+  height: 180px;
+  width: 220px;
+  margin: 2px 5px 2px 5px;
+}
